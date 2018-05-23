@@ -1,0 +1,21 @@
+body{
+    background-color: aliceblue;
+}
+
+.form-pos{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+form{
+    width: 50%;
+    height: auto;
+}
+
+input{
+    width: 70%;
+    margin-left: 15%;
+}
